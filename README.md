@@ -1,6 +1,7 @@
 MyVimFile
 =========
-git及vundle安装
+<h1><a name="gitandvundle" class="anchor" href="#gitandvundle"><span class="mini-icon mini-icon-link"></span></a>git及vundle安装</h1>
+
 1, 安装git  www.github.com
 
 将git目录加入到系统环境变量path中
@@ -22,7 +23,7 @@ Linux $ git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
 PC    $ git clone https://github.com/gmarik/vundle.git $VIM/vimfiles/bundle/vundle  
 
 ========
-Vundle支持三种格式
+<h1><a name="vundleop" class="anchor" href="#vundleop"><span class="mini-icon mini-icon-link"></span></a>Vundle支持三种格式</h1>
 
 "格式1：Github上其他用户的仓库（非vim-scripts账户里的仓库，所以要加Github用户名）  
 Bundle 'tpope/vim-fugitive' 
@@ -34,6 +35,8 @@ Bundle 'FuzzyFinder'
 Bundle 'git://vim-latex.git.sourceforge.net/gitroot/vim-latex/vim-latex'
 
 ========
+<h1><a name="vundle" class="anchor" href="#vundle"><span class="mini-icon mini-icon-link"></span></a>Vundle常用指令</h1>
+
 Vundle常用指令  
 :BundleList     列出已经安装的插件  
 :BundleInstall  安装所有配置文件中的插件  
@@ -42,7 +45,7 @@ Vundle常用指令
 :BundleClean!   根据配置文件删除插件  
 
 =========
-三个colorscheme分别如下:
+<h1><a name="colorscheme" class="anchor" href="#colorscheme"><span class="mini-icon mini-icon-link"></span></a>三个colorscheme</h1>
 
 molokai     https://github.com/vim-scripts/molokai  
 jellybeans  https://github.com/nanotech/jellybeans.vim  
