@@ -51,3 +51,11 @@ molokai     https://github.com/vim-scripts/molokai
 jellybeans  https://github.com/nanotech/jellybeans.vim  
 smyck       https://github.com/hukl/Smyck-Color-Scheme
 
+=========
+<h1><a name="keyword" class="anchor" href="#keyword"><span class="mini-icon mini-icon-link"></span></a>快捷键</h1>
+C-W
+C-Tab
+C-] 
+C-T
+C-O
+C-P
